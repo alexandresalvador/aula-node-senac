@@ -1,0 +1,23 @@
+{
+  "name": "aula-node-senac",
+  "version": "0.0.1",
+  "description": "Jovem Programador",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandresalvador/aula-node-senac.git"
+  },
+  "author": "Alexandre Salvador",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandresalvador/aula-node-senac/issues"
+  },
+  "homepage": "https://github.com/alexandresalvador/aula-node-senac#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
